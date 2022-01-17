@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: http://romdownload.nubia.com/M3/V3.03/NX611J-update.zip
   ROM_NAME: Nubia
-  BUILD_TYPE: ao
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
