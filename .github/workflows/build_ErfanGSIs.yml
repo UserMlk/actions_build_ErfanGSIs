@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://romdownload.nubia.com/M3/V3.03/NX611J-update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/15/8.19.11.26/cn_beta/20191126112955/6b80b652/update.zip
   ROM_NAME: Nubia
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
